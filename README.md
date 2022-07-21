@@ -11,7 +11,7 @@ Data can be found at *http://bit.ly/w-data*
   
 *At the end after building our model we will test that what will be predicted score if a student study for 7 hrs in a day?*
 
-## Steps:
+## Steps: 
 
 - Run the Prediction_of_Student_Marks_based_on_Study_Hours.ipnb file
 - Run the Streamlit.py in your CMD by this command by going to that path in which your file is saved in this way
